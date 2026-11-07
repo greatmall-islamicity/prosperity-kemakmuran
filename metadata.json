@@ -1,0 +1,6 @@
+{
+  "name": "Muqaddimah Wealth & Zakat Hub",
+  "description": "Platform Cerdas Rezeki Ibnu Khaldun & Gerakan Sadar Kaya - Pengelolaan Sumber Daya Berkelanjutan, Optimasi Zakat Blockchain, dan Strategi Abdurrahman bin Auf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
